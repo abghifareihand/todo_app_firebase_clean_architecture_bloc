@@ -16,8 +16,8 @@
 - Authentication Login Register Logout
 
 ## :hammer_and_wrench: Built With
-- Bloc
-- Get Tt
+- Flutter Bloc
+- Getit
 - Dartz
 - Equtable
 - Flutter Local Notification
