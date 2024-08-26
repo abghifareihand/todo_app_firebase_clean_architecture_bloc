@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68252358012",
+    "project_id": "todo-app-df4eb",
+    "storage_bucket": "todo-app-df4eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68252358012:android:e15885eb91d329853840f9",
+        "android_client_info": {
+          "package_name": "com.abghifareihan.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC1M5zQLFLF-0ForpMU4Os1_5MHdiBKwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
