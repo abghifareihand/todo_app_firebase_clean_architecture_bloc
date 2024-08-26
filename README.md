@@ -1,14 +1,15 @@
 # Todo Reminder App
 
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_1.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_2.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_3.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_4.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_5.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_6.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_7.png)
-![Thumbnail 1](https://github.com/abghifareihand/todo_app_firebase_clean_architecture_bloc/blob/master/screenshots/ss_8.png)
-
+<img src="screenshots/ss_1.png" width=200/>
+<img src="screenshots/ss_2.png" width=200/>
+<img src="screenshots/ss_3.png" width=200/>
+<img src="screenshots/ss_4.png" width=200/>
+<img src="screenshots/ss_5.png" width=200/>
+<img src="screenshots/ss_6.png" width=200/>
+<img src="screenshots/ss_7.png" width=200/>
+<img src="screenshots/ss_8.png" width=200/>
+<img src="screenshots/ss_9.png" width=200/>
+<img src="screenshots/ss_10.png" width=200/>
 
 ## :tada: Features App
 - Clean Code with Clean Architecture BLOC
